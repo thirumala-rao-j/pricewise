@@ -18,6 +18,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-responsive-carousel": "^3.2.23",
+    "styled-jsx": "^5.1.2",
     "supports-color": "^8.1.1"
   },
   "devDependencies": {
